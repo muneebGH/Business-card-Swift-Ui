@@ -1,4 +1,5 @@
 #  Business card
 
 
-images/preview.png
+
+![preview](images/preview.png)
